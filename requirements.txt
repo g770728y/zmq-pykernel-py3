@@ -1,0 +1,5 @@
+autopep8==2.0.2
+pycodestyle==2.10.0
+pyzmq==25.0.1
+tomli==2.0.1
+zmq==0.0.0
